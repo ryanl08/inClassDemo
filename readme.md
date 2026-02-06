@@ -10,4 +10,6 @@ git status  # help i need an adult
 git add -A  # add all to stage
 git checkout -b <branchName>  # move to branch and create it 
 git branch # list all branch
+git checkout  # changes branch
+git merge <branch> # merges target branch into current 
 ```
