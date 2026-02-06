@@ -3,11 +3,11 @@
 ##Commands
 
 ```
-git init
-git add <filename>
-git commit -m '<msg>'
-git status
-git add -A
-git checkout -b <branchName>
-git branch
+git init  # creates a new repo
+git add <filename>  # add one file to stage
+git commit -m '<msg>' # commit with inline msg
+git status  # help i need an adult
+git add -A  # add all to stage
+git checkout -b <branchName>  # move to branch and create it 
+git branch # list all branch
 ```
